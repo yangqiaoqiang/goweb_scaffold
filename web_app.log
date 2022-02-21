@@ -1,0 +1,23 @@
+{"level":"DEBUG","time":"2022-02-20T15:46:10.148+0800","caller":"web_demo/main.go:36","msg":"logger init success"}
+{"level":"ERROR","time":"2022-02-20T15:46:10.148+0800","caller":"mysql/mysql.go:24","msg":"connect db failed ,err:%v\n","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2022-02-20T15:50:14.889+0800","caller":"web_demo/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2022-02-20T15:50:14.891+0800","caller":"mysql/mysql.go:24","msg":"connect db failed ,err:%v\n","error":"dial tcp: lookup 127.0.0.1,3306: no such host"}
+{"level":"INFO","time":"2022-02-20T15:50:55.948+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0.0002026}
+{"level":"INFO","time":"2022-02-20T15:50:56.015+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-02-20T15:51:37.551+0800","caller":"web_demo/main.go:70","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2022-02-20T15:52:07.005+0800","caller":"web_demo/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2022-02-20T15:52:07.007+0800","caller":"mysql/mysql.go:24","msg":"connect db failed ,err:%v\n","error":"dial tcp: lookup 127.0.0.1,3306: no such host"}
+{"level":"DEBUG","time":"2022-02-20T15:54:52.379+0800","caller":"web_demo/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2022-02-20T15:54:52.381+0800","caller":"mysql/mysql.go:24","msg":"connect db failed ,err:%v\n","error":"dial tcp: lookup 127.0.0.1,3306: no such host"}
+{"level":"INFO","time":"2022-02-20T15:54:54.673+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-02-20T15:55:00.396+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-02-20T15:55:01.711+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-02-20T15:55:07.816+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0}
+{"level":"INFO","time":"2022-02-20T15:55:20.759+0800","caller":"web_demo/main.go:70","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2022-02-20T15:56:59.286+0800","caller":"web_demo/main.go:35","msg":"logger init success"}
+{"level":"ERROR","time":"2022-02-20T15:56:59.288+0800","caller":"mysql/mysql.go:24","msg":"connect db failed ,err:%v\n","error":"dial tcp: lookup 127.0.0.1,3306: no such host"}
+{"level":"INFO","time":"2022-02-20T15:57:01.568+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7113.93 Safari/537.36","errors":"","cost":0.000025}
+{"level":"INFO","time":"2022-02-20T15:57:08.013+0800","caller":"web_demo/main.go:70","msg":"Shutdown Server ..."}
+{"level":"DEBUG","time":"2022-02-21T14:23:50.921+0800","caller":"bluebell/main.go:36","msg":"logger init success"}
+{"level":"INFO","time":"2022-02-21T14:23:53.962+0800","caller":"bluebell/main.go:71","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2022-02-21T14:23:53.976+0800","caller":"bluebell/main.go:80","msg":"Server exiting"}
